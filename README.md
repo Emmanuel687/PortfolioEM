@@ -14,6 +14,7 @@ CSS has been used to style
 ## Installation
 Fork project from Github
 ## challenges
+
 ### License
 *{See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license

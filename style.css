@@ -7,7 +7,7 @@
 .about{
     width: 100%;
     padding: 78px 0px;
-    background-color:gray;
+    
 }
 .about img{
     height: auto;
@@ -25,14 +25,14 @@
     justify-content: space-around;
 }
 .about-text h5{
-    color: white;
+    color: gray;
     font-size: 80px;
     text-transform: capitalize;
     margin-bottom: 20px;
     letter-spacing: 2px;
 }
 .about-text p{
-    color: #fcfc;
+    color: black;
     letter-spacing: 1px;
     line-height: 28px;
     font-size: 18px;
@@ -54,9 +54,10 @@ button:hover{
     cursor: pointer;
 }
 body{
-    background-image: url('images/nastuh-abootalebi-eHD8Y1Znfpk-unsplash\ \(1\).jpg');}
-    
-.project name{
+    background-image: url(images/jaanus-jagomagi-tA5Ipxl-V4s-unsplash.jpg);
+    background-size: 100% 100%;
+}
+/* .project name{
     font-family: sans-serif;
     font-size: 18px;
     color: springgreen;
@@ -68,4 +69,8 @@ body{
     margin: bottom 45px;
     display: flex;
     justify-content: space-around;
+} */
+
+#ref{
+    width: 60px;
 }
