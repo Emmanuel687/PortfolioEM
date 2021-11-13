@@ -11,10 +11,13 @@ A  portfolio about me and what I do
 ## Technologies used
 HTMl is for the skeleton of body
 CSS has been used to style
+## Link
+https://emmanuel687.github.io/PortfolioEM/
 ## Installation
 Fork project from Github
+https://github.com/Emmanuel687/PortfolioEM.git
 ## challenges
-
+None
 ### License
 *{See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
